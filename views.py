@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#some comment
 from django.shortcuts import render_to_response
 from blog_core.models import Blog_records
 import datetime
